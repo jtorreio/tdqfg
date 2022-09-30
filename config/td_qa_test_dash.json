@@ -1,0 +1,32 @@
+{
+  "title":"QA Test Dashboard",
+  "description":"Enables surgeons to understand their weekly and monthly performance, and how they can grow their practice",
+  "tabs":
+    [
+      {
+        "tab":
+        [
+          {
+            "domain":"qa",
+            "displayName":"This Week",
+            "value":"6ol8sF5i6Rdw9rTZtTiCGw"
+          },
+          {
+            "domain":"*",
+            "displayName":"This Week",
+            "value":""
+          }
+        ]
+      },
+      {
+        "tab":
+        [
+          {
+            "domain":"*",
+            "displayName":"Last Week",
+            "value":"eeSbsNann3TxaIY0ewJ6nP"
+          }
+        ]
+      }
+    ]
+}
