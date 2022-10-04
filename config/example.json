@@ -1,62 +1,50 @@
 {
-  "title":"Sample App",
-  "description":"Description for extension dashboard",
-  "tabs":
-    [
-      {
-        "tab":
-        [
-          {
-            "domain":"bytecodeef",
-            "displayName":"TestDomain",
-            "value":"FXMkRqfALgDuRN5JGXeUqr"
-          },
-          {
-            "domain":"Test",
-            "displayName":"TestTestDomain",
-            "value":"FXMkRqfALgDuRN5JGXeUqr"
-          },
-          {
-            "domain":"*",
-            "displayName":"Test1",
-            "value":"FXMkRqfALgDuRN5JGXeUqr"
-          }
-        ]
-      },
-      {
-        "tab":
-        [
-          {
-            "domain":"*",
-            "displayName":"Test2",
-            "value":"SnnN02ID3CMzAhbKosufdU"
-          }
-        ]
-      },
-      {
-        "tab":
-        [
-          {
-            "domain":"*",
-            "displayName":"Test3",
-            "value":"Cc5f3AqWDUfnzoiscm514b"
-          }
-        ]
-      },
-      {
-        "tab":
-        [
-          {
-            "domain":"bytecodeef",
-            "displayName":"Test4",
-            "value":""
-          },
-          {
-            "domain":"*",
-            "displayName":"Test4",
-            "value":"ST3ubtHKIgUqyVUJJchhQr"
-          }
-        ]
-      }
-    ]
+	"title": "Sample App",
+	"description": "Description for extension dashboard",
+	"tabs": [{
+			"tab": [{
+					"domain": "bytecodeef",
+					"displayName": "TestDomain",
+					"value": "FXMkRqfALgDuRN5JGXeUqr"
+				},
+				{
+					"domain": "Test",
+					"displayName": "TestTestDomain",
+					"value": "FXMkRqfALgDuRN5JGXeUqr"
+				},
+				{
+					"domain": "*",
+					"displayName": "Test1",
+					"value": "FXMkRqfALgDuRN5JGXeUqr"
+				}
+			]
+		},
+		{
+			"tab": [{
+				"domain": "*",
+				"displayName": "Test2",
+				"value": "SnnN02ID3CMzAhbKosufdU"
+			}]
+		},
+		{
+			"tab": [{
+				"domain": "*",
+				"displayName": "Test3",
+				"value": "Cc5f3AqWDUfnzoiscm514b"
+			}]
+		},
+		{
+			"tab": [{
+					"domain": "bytecodeef",
+					"displayName": "Test4",
+					"value": ""
+				},
+				{
+					"domain": "*",
+					"displayName": "Test4",
+					"value": "ST3ubtHKIgUqyVUJJchhQr"
+				}
+			]
+		}
+	]
 }
