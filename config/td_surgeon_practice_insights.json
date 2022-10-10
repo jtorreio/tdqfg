@@ -1,0 +1,77 @@
+{
+  "title":"Surgeon Practice Insights - NEW",
+  "description":"Enables surgeons to understand their weekly and monthly performance, and how they can grow their practice",
+  "tabs":
+    [
+      {
+        "tab":
+        [{
+            "domain":"qa",
+            "displayName":"This Week",
+            "value":"6ol8sF5i6Rdw9rTZtTiCGw"
+          }
+          ,{
+            "domain":"*",
+            "displayName":"This Week",
+            "value":"21qfHEfjEF9VLu0cdbjCdT"
+          }
+        ]
+      },
+      {
+        "tab":
+        [{
+            "domain":"qa",
+            "displayName":"Engagement",
+            "value":"cd7oxzfrVxVWWe0tdJ7OVA"
+          }
+          ,{
+            "domain":"*",
+            "displayName":"Engagement",
+            "value":"oaPdltz470lxYNyUTUc34D"
+          }
+        ]
+      },
+      {
+        "tab":
+        [{
+            "domain":"qa",
+            "displayName":"Performance",
+            "value":"pnLvXDJxosOieTr8eneIwo"
+          }
+          ,{
+            "domain":"*",
+            "displayName":"Performance",
+            "value":"AIaaf9x6xsMSk7A8NbhTjt"
+          }
+        ]
+      },
+      {
+        "tab":
+        [{
+            "domain":"qa",
+            "displayName":"Benchmarking",
+            "value":"Y0OHyuw7iYnL0SfyxbQCsa"
+          }
+          ,{
+            "domain":"*",
+            "displayName":"Benchmarking",
+            "value":"xrL7ovK4KSzErdgBBAuOGw"
+          }
+        ]
+      },
+      {
+        "tab":
+        [{
+            "domain":"qa",
+            "displayName":"Growth",
+            "value":"sxQHBRPj590uaRrjiyra4K"
+          }
+          ,{
+            "domain":"*",
+            "displayName":"Growth",
+            "value":"78F8d0xsbseP4LqU2phlr1"
+          }
+        ]
+      }
+    ]
+}

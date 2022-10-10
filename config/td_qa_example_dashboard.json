@@ -1,0 +1,55 @@
+{
+  "title":"QA Example Dashboard",
+  "description":"This dashboard shows the .json layout tabbed dashboards, but will also serve as the QA test for tabbed dashboards. There are 4 total tabs; tab 1 and 2 should be visible everywhere, tab 3 should ONLY be visible on QA, and tab 4 should be hidden ONLY on QA",
+  "tabs":
+    [
+      {
+        "tab":
+        [
+          {
+            "domain":"*",
+            "displayName":"Tab 1",
+            "value":"mwCDFGhiTecursIP9PfvtG"
+          }
+        ]
+      },
+      {
+        "tab":
+        [
+          {
+            "domain":"*",
+            "displayName":"Tab 2",
+            "value":"TJxeiteVm0dlIMLPSd1BM8"
+          }
+        ]
+      },
+      {
+        "tab":
+        [{
+            "domain":"qa",
+            "displayName":"Tab 3",
+            "value":"qXsVylh81qbV0VNrWbR2N5"
+          },
+          {
+            "domain":"*",
+            "displayName":"Tab 3",
+            "value":""
+          }
+        ]
+      },
+      {
+        "tab":
+        [{
+            "domain":"qa",
+            "displayName":"Tab 4",
+            "value":""
+          },
+          {
+            "domain":"*",
+            "displayName":"Tab 4",
+            "value":"LNFde8fah6JCMSnzK2oxQd"
+          }
+        ]
+      }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+  "title":"OR Leader Insights - NEW",
+  "description":"Enables OR Leaders to understand daily operations and historical performance across ORs and service lines, and how they can optimize block allocation across various block owners",
+  "tabs":
+    [
+      {
+        "tab":
+        [{
+            "domain":"qa",
+            "displayName":"Today",
+            "value":"HRP9FNiIkbr1zth1zfm4lE"
+          }
+          ,{
+            "domain":"*",
+            "displayName":"Today",
+            "value":""
+          }
+        ]
+      },
+      {
+        "tab":
+        [{
+            "domain":"qa",
+            "displayName":"Yesterday Snapshot",
+            "value":""
+          }
+          ,{
+            "domain":"*",
+            "displayName":"Yesterday Snapshot",
+            "value":"nTXqn1fWWtxCkty6xC2r9w"
+          }
+        ]
+      },
+      {
+        "tab":
+        [{
+            "domain":"qa",
+            "displayName":"Volumes & Throughput",
+            "value":"5FnnGrbA7ro8cSpa7XpgoQ"
+          }
+          ,{
+            "domain":"*",
+            "displayName":"Volumes & Throughput",
+            "value":"ZeTv8yKbQ0x250xH7RK1Gl"
+          }
+        ]
+      },
+      {
+        "tab":
+        [{
+            "domain":"qa",
+            "displayName":"Utilization & Engagement",
+            "value":"s1IhjMDEEnlp5Sx0eYWAYj"
+          }
+          ,{
+            "domain":"*",
+            "displayName":"Utilization & Engagement",
+            "value":"r8gTDP8TUMIICxNJ7fPSCN"
+          }
+        ]
+      },
+      {
+        "tab":
+        [{
+            "domain":"qa",
+            "displayName":"Block Allocation Optimizer",
+            "value":"t8HdfchN4LiYCwzREOuJHR"
+          }
+          ,{
+            "domain":"*",
+            "displayName":"Block Allocation Optimizer",
+            "value":"q4Tzd98M8RqR21H7yMga85"
+          }
+        ]
+      }
+    ]
+}
